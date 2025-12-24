@@ -120,3 +120,31 @@ Defined why you want a graduate degree in this field?
 Demonstrated that you are self-motivated, persistent, competent, and have the skills necessary to be successful in graduate school?
 Followed the ASOP instructions as defined by the program you are applying to?
 Polished, proofread, and had others review your ASOP?
+
+Describe: my ambitioun,
+Develop: New technical muscles
+Expand: My perspective( from student to researcher)
+Achievve: the stepping stone to RPI and the PhD
+
+
+Hello! I'm Rayyan, and here is some simple background information about myself. I'm a 19 year old Engineering Student studying Engineering Science at HVCC, and my goal is to get into electrical engineering, particularly controls. I've always liked hardware and software. Initially, I wanted to go into computer science, but I decided to study electrical engineering when I realized that I liked robotics more. I used to do a LOT of breadboard projects on my radioshack circuits kit. 
+
+Motivation to study control systems/instrumentation.
+I've always loved sensors and actuators. Working with them, collecting & analyzing their data output, troubleshooting what goes wrong with them. I love optimization and control. Idk how to communicate this, but everything in my life, whether it is sketching graphs on paper to analyzing weather to studying math is about this.
+
+My plans are to finish my commmunity college requirements such as Differential Equations and Circuits, and  transfer to RPI to finish my EE undergrad. I plan on doing a merged BS + MS, and I already spoke with the RPI transfer advisor about that. The CCI program is a perfect fit here, both in timing and subject. I will get to have some hands-on experience before I enroll in RPI, so i'll know more clarity on exactly which courses I want to take and what I want to get my MS in. I'm eager to work in the Instrumentation /controls department. AFter my BS+MS, I possibly might get a PhD in the field too.
+
+Aspects of the program that attract me, are the opportunity to network, collaborate with physicists, scientists, engineering from various fields, etc, get exposure to a broad array of technologies at Fermilab (or my second choice, brookhaven). OUtside the program, the opportunities to engage in career development sound cool. After I complete the program, I'll head to RPI with clarity. I plan to get into research at rpi, something I was unable to do here.
+
+organize:
+Describe:
+My long-term professional goal is to become a Lead R&D Engineer specializing in control systems and automation. My journey into this field began with breadboard circuit projects, and my curiousity to code & math blah blah, my robotics projects. While I initially intended to study CS, I realized through my robotics projects that my true passion lay at the intersection of hardware and software, shifting my focus to Electrical Engineering. I am obsessed with optimization, whether sketching graphs to analyze local weather patters, or troubleshooting sensors to ensure data accuracy, and I aim to apply this mindset to critical machinery in a National Lab.
+
+Achieve:
+This spring, I am finishing my foundational coursework, including Differential Equations and Circuits. My next step will be transferring to Rensellaer Polytechnic Institute (RPI) to complete my BS in Electrical Engineering. I've already consulted with the RPI transfer director and mapped out a trajector for their accelerated BS+MS program. I'm specifically targeting th ECSE major because it aligns with my career focus. My ultimate academic goal is to leverage this to pursue a PhD, allowing me to contribute to the cutting edge.
+
+Develop:
+However, I recognize the long road ahead between my current projects and knowledge, and the demands of High Level R&D. Participating in the CCI program is the essential bridge between my community college education and my future at RPI. Specifically, I'm seeking to work with in instrumentation and control systems because I want to gain exposure to the sensors, actuators, and data acquisition systems used . This will provide me context and help me identify exactly which research I want to pursue when I reach RPI. 
+
+Expand:
+Beyond the technical skills, the CCI program offers me a unique environment to expand my professional perspective. At HVCC, my opportunities for research and big projects are limited. The CCI program will expose me to the intensely collaborative nature of science, where engineers, physicists, and technicians must work together to solve interdisciplinary problems. Just like I took advantage of the programs at HVCC, I'm eager to take advantage of the career devolpment workshops and networking opportunities to learn how successful researchers work in their career! By the end of this internship, I plan to return to my studies with a new perspective on research and science, contribute to the mission of the DOE. 
