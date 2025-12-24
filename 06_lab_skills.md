@@ -7,7 +7,7 @@ Soldering: Proficient in through-hole and basic SMD soldering.
 
 Fabrication and Mechanical
 
-**3D printing: Extensive experinece with FDM printers (Creality, Prusa, BambuLab) and slicing software (Cura, Prusaslicer, Bambu Studio). Familiar with maintenence and troubleshooting. Extensive experience prototyping mechanical parts with 3D printing and fine-resolution printing.
+3D printing: Extensive experinece with FDM printers (Creality, Prusa, BambuLab) and slicing software (Cura, Prusaslicer, Bambu Studio). Familiar with maintenence and troubleshooting. Extensive experience prototyping mechanical parts with 3D printing and fine-resolution printing.
 CNC Machining: Independently designed and built a custom foam-cutting CNC machine; familiar with G-Code generation process, used wood-cutting CNC to craft catapult.
 Rapid Prototyping: Experience building electromechanical assemblies (e.g. Optical Encoders) using 3D printing, hand and machine tools, etc.
 

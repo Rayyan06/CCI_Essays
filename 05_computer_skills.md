@@ -5,7 +5,7 @@ NI LabVIEW 2018: Designed a Serial Interface to process high frequency Encoder P
 
 MATLAB: Modelled heat loss for a Mug Warmer Intro to Engineering Design Project, simulated vehicle dynamics for an RC car project, and solved matrix equations for Engineering Coursework.
 
-KICAD: used for circuit board development. Went through the full process of making a schematic, adding symbols & footprints, laying out traces on circuit board and generating Gerber Files, ordering components and assembly from an online vendor.
+KICAD: used for circuit board development. Went through the full process of making a schematic, adding symbols & footprints, laying out traces on circuit board and generating Gerber Files, ordering components and assembly from an online vendor. Familiar with Altium Designer Concepts.
 
 Programming Languages
 
