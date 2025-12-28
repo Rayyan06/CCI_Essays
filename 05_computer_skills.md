@@ -20,7 +20,7 @@ Arduino IDE: Used for rapid prototyping and sensor integration prior to custom A
 
 Software Tools & Data
 
-Microsoft Excel: Advanced proficiency. Utilized for Data Visualization, Regression Analysis, Pivot Tables, and filtering large datasets. Extensively used in Lab reports & in Engineering Design course to track project progress as a member of the management team. Used in Engineering Tools course for assignments
+Microsoft Excel: Advanced proficiency. Utilized for Data Visualization, Regression Analysis, Pivot Tables, and filtering large datasets. Extensively used in Lab reports and in Engineering Design course to track project progress, technical specifications, and FMEA (Failure Modes and Effects) analysis as a member of the management team. Used in Engineering Tools course for Engineering Calculation Assignments. 
 
 Microsoft Office Suite: Used Word for technical reports and Documentation, PowerPoint for technical presentations, and OneDrive for file sharing for team & club projects.
 
