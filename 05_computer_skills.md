@@ -13,18 +13,20 @@ C/C++: Advanced Proficiency. Focus on microcontroller programming and GUI develo
 
 Python: Used MatplotLib & Numpy for mathematical analysis and lab reports for classes. Experience with Django to create full stack web apps. Used PyQt5 and Tkinter for Engineering Software GUI development.
 
-HTML/CSS/Javascript: Extensive experience developing web apps such as Ecommerce website, Data visualization from Serial Port. 
+Java: Will learn to use this programming language in my CISS 110 course I am taking next semester.
+
+HTML/CSS/Javascript: Extensive experience developing web apps such as Ecommerce website, Data visualization from Serial Port.
 NodeJS: Experience developing websites with JS framework
 
 Arduino IDE: Used for rapid prototyping and sensor integration prior to custom AVR C code implementation
 
 Software Tools & Data
 
-Microsoft Excel: Advanced proficiency. Utilized for Data Visualization, Regression Analysis, Pivot Tables, and filtering large datasets. Extensively used in Lab reports and in Engineering Design course to track project progress, technical specifications, and FMEA (Failure Modes and Effects) analysis as a member of the management team. Used in Engineering Tools course for Engineering Calculation Assignments. 
+Microsoft Excel: Advanced proficiency. Utilized for Data Visualization, Regression Analysis, Pivot Tables, and filtering large datasets. Extensively used in Lab reports and in Engineering Design course to track project progress, technical specifications, and FMEA (Failure Modes and Effects) analysis as a member of the management team. Used in Engineering Tools course for Engineering Calculation Assignments.
 
 Microsoft Office Suite: Used Word for technical reports and Documentation, PowerPoint for technical presentations, and OneDrive for file sharing for team & club projects.
 
-Google Suite: Drive, Gmail, Google Sheets, Google Slides, 
+Google Suite: Drive, Gmail, Google Sheets, Google Slides,
 
 Git & Github: Used for keeping track of Programming Projects with Version Control.
 IDE's: VS Code, Visual Studio(C++), and Microchip Studio (Embedded Projects)
