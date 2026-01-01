@@ -17,6 +17,6 @@ General Laboratory
 Physics 2 (Mechanics and E&M): Data collection using photogates, force sensors, motion detectors. Circuit Analysis using oscilloscopes. Electron Beam Deflection Experiments with Helmhotz coils.
 Chemistry: Titration, Spectrophotometry, Gravimetric Analysis, and Safe reagent handling.
 
-Safety and Documentation: Familiar with PPE usage and laboratory safety standards. Wrote FMEA documentation for class projects and Standard Operating Procedures (SOP's) for makerspace equipment.
+Safety and Documentation: Familiar with PPE usage and laboratory safety standards. Wrote FMEA documentation for class projects and Standard Operating Procedures (SOP's) for makerspace equipment. Worked with Electronics Datasheets for Sensors & Actuators, Analyzing Requirements and limitations.
 
 Eager to apply these skills to accelerator-scale instrumentation, including vacuum systems, cryogenics, and beam diagnostics.
