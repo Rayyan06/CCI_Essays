@@ -1,5 +1,5 @@
 Essay 1: Technical Experience
-The Goal: Prove you are a competent engineer who can build hardware and code C++. The Theme: "I build complex things, both alone and with others."
+Prove you are a competent engineer who can build hardware and code C++. The Theme: "I build complex things, both alone and with others."
 
 Paragraph 1: Independent Complexity (The "Hard" Tech)
 

@@ -19,3 +19,4 @@ Physics 1 (Mechanics): Data collection using photogates, force sensors, motion d
 Chemistry: Titration, Spectrophotometry, Gravimetric Analysis, and Safe reagent handling.
 
 Safety Skills: Familiar with PPE usage, FMEA (Failure modes and Effects Analysis) documentation, and laboratory safety standards. Wrote Standard Operating Procedures (SOP's) in makerspace.
+

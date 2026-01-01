@@ -3,7 +3,7 @@ SolidWorks 2022 & Fusion 360: Years of experience modeling mechanical parts for 
 
 NI LabVIEW 2018: Designed a Serial Interface to process high frequency Encoder Position Byte Data. Implemented a producer-consumer loop architecture to acquire, process, and visualize data on a live chart with minimal latency.
 
-MATLAB: Modelled heat loss for a Mug Warmer Intro to Engineering Design Project, simulated vehicle dynamics for an RC car project, and solved matrix equations for Engineering Coursework.
+MATLAB: Modelled heat loss for a Mug Warmer Intro to Engineering Design Project, simulated vehicle dynamics for an RC car project, and solved matrix equations for Engineering Coursework. Spring 2026: numerical simulation of differential equations, dynamic mechanical systems, and electric circuits.
 
 KICAD: used for circuit board development. Went through the full process of making a schematic, adding symbols & footprints, laying out traces on circuit board and generating Gerber Files and BOM, ordering components and assembly from an online vendor. Familiar with Altium Designer Concepts.
 
@@ -20,6 +20,9 @@ NodeJS: Experience developing websites with JS framework
 
 Arduino IDE: Used for rapid prototyping and sensor integration prior to custom AVR C code implementation
 
+(SPRING 2026):
+CISS 110 Computer Science Fundamentals: Formal academic coursework in algorithmic logic, structured programming design, and computational theory.
+
 Software Tools & Data
 
 Microsoft Excel: Advanced proficiency. Utilized for Data Visualization, Regression Analysis, Pivot Tables, and filtering large datasets. Extensively used in Lab reports and in Engineering Design course to track project progress, technical specifications, and FMEA (Failure Modes and Effects) analysis as a member of the management team. Used in Engineering Tools course for Engineering Calculation Assignments.
@@ -32,3 +35,7 @@ Git & Github: Used for keeping track of Programming Projects with Version Contro
 IDE's: VS Code, Visual Studio(C++), and Microchip Studio (Embedded Projects)
 
 Notion: Used for project management, task tracking
+
+
+
+Note: At the time of writing this, the future skills that I will practice in Spring 2026 are listed, and marked as future.
