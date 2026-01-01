@@ -1,0 +1,3 @@
+Upon graduating from HVCC, I will transfer to Rensselaer Polytechnic Institute (RPI) to pursue a Bachelor’s in Electrical, Computer, and Systems Engineering (ECSE). My immediate goal is to enter the Co-Terminal program to earn my Master’s degree in an accelerated timeline, specializing in Control Systems and Embedded Hardware.
+
+Long-term, I aim to become a Lead R&D Engineer designing complex control architectures for large-scale scientific instrumentation or advanced manufacturing systems. Whether working at a National Laboratory or in the semiconductor industry, I intend to design the robust, hardware-level systems that drive the next generation of scientific discovery and industrial automation.
