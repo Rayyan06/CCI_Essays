@@ -8,6 +8,4 @@ Fascinated by this discussion, I researched PIP-II's Machine Protection System. 
 
 My second choice is Brookhaven's NSLS-II. While Fermilab focuses on rapid fault detection, BNL centers on sub-micron orbit precision. I want to understand how RFBPMs integrate with Stripline Feedback Kickers to correct orbit deviations in real time, maintaining position stability below 10% of beam size.
 
-Two specific projects caught my eye. First, the Accelerator Tunnel Surveillance Robot and its fusion of visible, IR, and radiation sensors for real-time diagnostics connects to my sensor and PID experience. Second, the RF group's recent work on coldbox redundancy, developing PLC software with 80+ control loops to manage cryogenic systems. Both represent the embedded challenges I seek.
-
-Whether debugging a feedback loop or tracing a sensor fault, I want to be useful from day one.
+Two specific projects caught my eye. First, the Accelerator Tunnel Surveillance Robot and its fusion of visible, IR, and radiation sensors for real-time diagnostics connects to my sensor and PID experience. Second, the RF group's recent work on coldbox redundancy, developing PLC software with 80+ control loops to manage cryogenic systems. Both align with the embedded challenges I seek.
