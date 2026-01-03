@@ -1,20 +1,22 @@
 Programming Languages
 
-C/C++: Advanced Proficiency. Focus on microcontroller programming and GUI development. Wrote Interrupt Service Routines (ISR) in AVR C to send high-frequency serial data, and C++ programs to receive it. Utilized object-oriented programming, complex data structures, and C++ STL library for C++ GUI programs with wxWidgets and Qt to create desktop engineering applications. Utilized I2C communication for self-balancing robot sensors.
+C / C++: Advanced Proficiency. Focus on microcontroller programming and GUI development. Developed Firmware using AVR-C; wrote Interrupt Service Routines (ISR) to send high-frequency serial data, and C++ programs on the receiving end to process incoming serial data, using serial communication drivers (Win32). Utilized object-oriented programming, complex data structures, and C++ STL library for C++ GUI programs with wxWidgets and Qt to create desktop engineering applications. Utilized I2C communication for self-balancing robot sensors.
 
 Python: MatplotLib & Numpy for mathematical analysis and lab reports for classes. Experience with Django to create full stack web apps. Used PyQt5 and Tkinter for Engineering Software GUI development.
 
 Java: Currently enrolled in CISS 110 (Spring 2026) covering fundamentals and OOP concepts.
 
 HTML/CSS/Javascript: Extensive experience developing web apps such as Ecommerce website, Data visualization from Serial Port.
-NodeJS: Experience developing websites with JS framework
+NodeJS: Experience developing websites with expressJS, RemixJS, and NextJS. Created .io game (online multiplayer game) using websockets.
 
 Arduino IDE: Used for rapid prototyping and sensor integration prior to custom AVR C code implementation
 
 Raspberry Pi: Set up a Minecraft server and developed sensor data collection projects using Python, GPIO, and I2C interfaces.
 
+Linux(Bash/Shell): Assisted Computer Science students with environment setup, experience with Linux terminal basics and Bash commands.
+
 Engineering Software
-SolidWorks 2022 & Fusion 360: 3+ years modeling mechanical parts for 3D printing and CAM. Designed components for Foam Cutting CNC and Optical Encoder. Used in class projects for rapid prototyping. Generated toolpaths to cut parts from Wood stock with a CNC machine.
+SolidWorks 2022 & Fusion 360: 3+ years modeling mechanical parts for 3D printing; CAD and CAM. Designed components for Foam Cutting CNC and Optical Encoder. Used in class projects for rapid prototyping. Generated G-code toolpaths to cut parts from Wood stock with a CNC machine.
 
 NI LabVIEW 2018: Built a serial interface using producer-consumer architecture to acquire, process, and visualize high frequency encoder data with minimal latency.
 
@@ -33,6 +35,6 @@ Microsoft Office Suite: Used Word for technical reports and Documentation, Power
 Google Suite: Drive, Gmail, Sheets, and Slides for collaborative team projects.
 
 Git & Github: Used for keeping track of Programming Projects with Version Control. Github Actions for deployments, CI/CD integration.
-IDE's: VS Code, Visual Studio(C++), and Microchip Studio (Embedded Projects)
+IDE(Integrated Development Environment): VS Code, Visual Studio(C++), and Microchip Studio (Embedded Projects)
 
 Notion: Used for project management, task tracking
