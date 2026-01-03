@@ -11,7 +11,7 @@ NodeJS: Experience developing websites with JS framework
 
 Arduino IDE: Used for rapid prototyping and sensor integration prior to custom AVR C code implementation
 
-Raspberry PI: Made projects with this.
+Raspberry Pi: Set up a Minecraft server and developed sensor data collection projects using Python, GPIO, and I2C interfaces.
 
 Engineering Software
 SolidWorks 2022 & Fusion 360: 3+ years modeling mechanical parts for 3D printing and CAM. Designed components for Foam Cutting CNC and Optical Encoder. Used in class projects for rapid prototyping. Generated toolpaths to cut parts from Wood stock with a CNC machine.
