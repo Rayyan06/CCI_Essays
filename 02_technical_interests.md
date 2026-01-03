@@ -10,4 +10,4 @@ My second choice is Brookhaven's NSLS-II. While Fermilab focuses on rapid fault 
 
 Two specific projects caught my eye. First, the Accelerator Tunnel Surveillance Robot and its fusion of visible, IR, and radiation sensors for real-time diagnostics connects to my sensor and PID experience. Second, the RF group's recent work on coldbox redundancy, developing PLC software with 80+ PI control loops to manage cryogenic systems is exactly the industrial-scale challenge I'd love to join.
 
-Whatever the system, I'm ready to peruse the datasheet.
+Whatever the system, I'm ready to peruse the datasheets.
