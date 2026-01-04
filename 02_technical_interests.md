@@ -1,4 +1,4 @@
-My first choice is Fermilab because it demands what I most want to learn: real-time embedded control systems which operate on microsecond scales where high-level software cannot keep up. Propelling particles to 84% the speed of light using PIP-II's Superconducting LINAC is the scale of engineering I'm preparing for.
+My first choice is Fermilab because it demands what I most want to learn: real-time embedded control systems, which operate on microsecond scales where high-level software cannot keep up. Propelling particles to 84% the speed of light using PIP-II's Superconducting LINAC is the scale of engineering I'm preparing for.
 
 My optical encoder project, capturing edge transitions at high speed with interrupt-driven firmware, sparked my interest in Data Acquisition. I realized that Beam Diagnostics requires this skill set, but at a scale where latency is critical. While my encoder sampled at kHz, beam position monitors operate at MHz, requiring instant feedback beyond what standard microcontrollers can achieve.
 
