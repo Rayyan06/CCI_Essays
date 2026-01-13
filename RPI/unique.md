@@ -1,0 +1,1 @@
+Homeschooled K-12, I would teach myself. I spent a year at my father's engineering firm, building a 4-axis CNC
